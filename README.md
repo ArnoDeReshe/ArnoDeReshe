@@ -1,5 +1,6 @@
 ### Hi there 👋
 git commit 
+git push 
 <!--
 **ArnoDeReshe/ArnoDeReshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
